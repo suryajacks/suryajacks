@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @suryajacks
 - 👀 I’m interested in ...full stack developer
 - 
-- 🌱 I’m currently learning ...puthon
+- 🌱 I’m currently learning ...python
 - 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
