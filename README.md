@@ -1,7 +1,7 @@
 #SuryaJacks
 
 $$ Floating IN $$
-#Ract js
+#React js
 #Djago
 #Python
 #Linux
